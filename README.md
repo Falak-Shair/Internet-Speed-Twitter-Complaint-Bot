@@ -8,6 +8,8 @@ It wil compare download speed and our upload speed then compare these against wh
 
 ![speed](https://user-images.githubusercontent.com/82333746/139504063-b679aa47-cc2e-4ee1-b575-bd9a71706a70.JPG)
 
+You can see this chrome tab is controlled by automated software that's selenium
+
 # Screenshot Of tweet 
 
 ![tweet](https://user-images.githubusercontent.com/82333746/139504083-1265bf2e-74c7-4772-90f7-aee5b3efdfd0.JPG)
